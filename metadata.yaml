@@ -1,0 +1,31 @@
+_repo: Old-English-Patent-Medicines-in-America_30162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Young, James Harvey
+    birthdate: 1915
+    deathdate: 2006
+    gutenberg_agent_id: '34406'
+    url: http://www.gutenberg.org/2009/agents/34406
+  - agent_name: Griffenhagen, George B.
+    gutenberg_agent_id: '32443'
+    url: http://www.gutenberg.org/2009/agents/32443
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2009-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30162'
+  lccn: '61061037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Patent medicines'
+title: Old English Patent Medicines in America
+url: http://www.gutenberg.org/ebooks/30162
